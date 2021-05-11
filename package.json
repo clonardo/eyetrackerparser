@@ -20,7 +20,7 @@
   "dependencies": {
     "conf": "^6.2.4",
     "enquirer": "^2.3.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "papaparse": "^5.2.0",
     "reflect-metadata": "^0.1.13",
     "sqlite3": "^4.1.1",
